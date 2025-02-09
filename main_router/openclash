@@ -1,13 +1,13 @@
 
 config config_subscribe
 	option enabled '1'
-	option name '快猫-自动'
-	option address '【订阅地址复制并覆盖这里】'
+	option name 'Miru-自动'
+	option address 'https://ss-subs.paofusub2.com/sub?target=clash&interval=259200&&url=https%3A%2F%2Fwww.mirusub.com%2Flink%2FnIRWfOiyxBXEq6eU%3Fsub%3D1&insert=false&config=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FPaofu-cloud%2Fclashrules%40main%2Fclash.ini&filename=Miru&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true'
 	option sub_ua 'clash.meta'
 	option sub_convert '1'
 	option convert_address 'https://subsrv.ok1248.cn:4433/sub'
 	option template '0'
-	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini'
+	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Cash-All.ini'
 	option emoji 'false'
 	option skip_cert_verify 'false'
 	option sort 'false'
@@ -28,11 +28,11 @@ config config_subscribe
 
 config config_subscribe
 	option enabled '1'
-	option name '红杏-自动'
-	option address '【订阅地址复制并覆盖这里】'
+	option name '公司-自动'
+	option address 'https://vnet-subscribe.top/s/YXXQG5gamT2NU6nf'
 	option sub_convert '1'
 	option template '0'
-	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini'
+	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Cash-All.ini'
 	option emoji 'false'
 	option udp 'true'
 	option skip_cert_verify 'false'
